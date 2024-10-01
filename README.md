@@ -1,4 +1,4 @@
-# ![Banner](https://drive.google.com/file/d/1-bTFVh3vdVUT0kbVm55I-XYUCXKZSQDQ/view?usp=drive_link)
+# ![Banner](https://github.com/giohb777/AdvancedAnalytics/blob/main/Banner.jpg?raw=true)
 
 # Welcome to Georgio's GitHub!
 
