@@ -27,9 +27,9 @@ Feel free to explore, star ⭐ the repos you like, or even contribute!
 ### Recent Projects
 Here are a few of my latest projects:
 
-1. **[Multiple_Linear_Regression_(MLR)_analysis_on_Pay_Gaps_across_different_industries](https://github.com/giohb777/AdvancedAnalytics/blob/main/Multiple_Linear_Regression_(MLR)_analysis_on_Pay_Gaps_across_different_industries.ipynb)** – A project where I used unsupervised machine learning to identify customer segments for better targeting strategies.
-2. **[Sentiment Analysis](https://github.com/giohb777/AdvancedAnalytics/blob/main/Sentiment%20Analysis%20Georgio%20Hajj%20Boutros%20.ipynb)** – Developed an ARIMA model for time series forecasting to analyze trends and seasonal patterns.
-3. **[ARIMA Modeling](https://github.com/giohb777/AdvancedAnalytics/blob/main/ARIMA%20Modeling%20Georgio%20Hajj%20Boutros.ipynb)** – Explored the pay gap across various industries using MLR to identify significant factors affecting salaries.
+1. **[Multiple_Linear_Regression_(MLR)_analysis_on_Pay_Gaps_across_different_industries](https://github.com/giohb777/AdvancedAnalytics/blob/main/Multiple_Linear_Regression_(MLR)_analysis_on_Pay_Gaps_across_different_industries.ipynb)** – Explored the pay gap across various industries using MLR to identify significant factors affecting salaries.
+2. **[Sentiment Analysis](https://github.com/giohb777/AdvancedAnalytics/blob/main/Sentiment%20Analysis%20Georgio%20Hajj%20Boutros%20.ipynb)** – Analyzing social media sentiment using NLP techniques to gauge public opinion on various topics.
+3. **[ARIMA Modeling](https://github.com/giohb777/AdvancedAnalytics/blob/main/ARIMA%20Modeling%20Georgio%20Hajj%20Boutros.ipynb)** – Developed an ARIMA model for time series forecasting to analyze trends and seasonal patterns.
 
 ## Connect with Me
 
