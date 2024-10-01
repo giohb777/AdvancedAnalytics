@@ -1,4 +1,4 @@
-# ![Banner](https://photos.app.goo.gl/ZPEEi5CoSHjYRYoy8)
+# ![Banner](https://drive.google.com/file/d/1-bTFVh3vdVUT0kbVm55I-XYUCXKZSQDQ/view?usp=drive_link)
 
 # Welcome to Georgio's GitHub!
 
