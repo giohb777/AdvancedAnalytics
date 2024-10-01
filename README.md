@@ -9,7 +9,7 @@
 I recently completed my **Master's degree in Data Analytics** in an accelerated six-month program. With more than 10 years of experience in business intelligence, I've worked across various industries to help organizations optimize their data strategies, streamline operations, and uncover valuable insights.
 
 Some key areas I focus on:
-- **Data Visualization & Reporting** (Power BI, Tableau, Excel)
+- **Data Visualization & Reporting** (Qlik, Power BI, Tableau, Excel)
 - **Data Warehousing & ETL** (SQL, Snowflake, Redshift)
 - **Predictive Analytics & Machine Learning** (Python, R)
 - **Data Modeling & Forecasting**
