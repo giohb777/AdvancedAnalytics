@@ -1,3 +1,5 @@
+# ![Banner](https://photos.app.goo.gl/ZPEEi5CoSHjYRYoy8)
+
 # Welcome to Georgio's GitHub!
 
 👋 Hi there! I'm **Georgio**, an experienced Data Analytics professional with over a decade of experience in **Business Intelligence** and **Data Analytics**. I specialize in transforming data into actionable insights to drive informed decision-making.
