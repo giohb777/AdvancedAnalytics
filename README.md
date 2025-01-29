@@ -31,6 +31,16 @@ Here are a few of my latest projects:
 2. **[Sentiment Analysis](https://github.com/giohb777/AdvancedAnalytics/blob/main/Sentiment%20Analysis%20Georgio%20Hajj%20Boutros%20.ipynb)** – Analyzing social media sentiment using NLP techniques to gauge public opinion on various topics.
 3. **[ARIMA Modeling](https://github.com/giohb777/AdvancedAnalytics/blob/main/ARIMA%20Modeling%20Georgio%20Hajj%20Boutros.ipynb)** – Developed an ARIMA model for time series forecasting to analyze trends and seasonal patterns.
 
+### Recent Articles
+Here are my published articles:
+
+1. **[🎄Shifting Holiday Spending Trends: "Experiences" Taking the Lead in 2024 (#1)](https://www.linkedin.com/pulse/shifting-holiday-spending-trends-experiences-taking-1-georgio-ajwae/?trackingId=8tiZqF74R8q35Ca9XQ%2Bb7g%3D%3D)** – This article breaks down the data, visualizes the insights, and highlights what it all means for consumers and businesses this holiday season.
+2. **[🚀 AI can deliver insights faster than ever—but without trust, is it really smart decision-making? (#2)](https://www.linkedin.com/pulse/ai-can-deliver-insights-faster-than-everbut-without-2-georgio-gkgpe/?trackingId=AoZyeDb4RaiaGSC8%2BD8YPg%3D%3D)** – AI adoption in Business Intelligence is on the rise, yet trust in its outputs remains low. In this article, I dive into several factors affection that trust.
+ 
+
+
+
+
 ## Connect with Me
 
 If you found me through LinkedIn, thank you for visiting my GitHub! I'm always open to connecting and discussing all things data-related.
